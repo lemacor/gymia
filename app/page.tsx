@@ -59,7 +59,7 @@ export default function ProPage() {
             onClick={() =>
               alert(
                 "GymIA PRO está preparado. En la siguiente fase conectaremos Stripe para procesar el pago real."
-              )
+              )} 
           >
             Continuar con PRO
           </button>
